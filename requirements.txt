@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+finance-datareader
+plotly
+seaborn
+matplotlib
+koreanize_matplotlib
+networkx
+pyvis
+pyvis.network
